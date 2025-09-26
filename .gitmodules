@@ -1,0 +1,3 @@
+[submodule "dep/Enclosure"]
+	path = dep/Enclosure
+	url = git@github.com:Matthew-Papesh/Enclosure.git
